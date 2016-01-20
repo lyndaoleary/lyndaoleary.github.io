@@ -8,9 +8,9 @@ Last Thursday, the first Women in Technology Galway meetup was held in BOI Workb
 
 To kick start the event, I gave an overview of the meetup group. For those who missed the meetup, you can view the [meetup slides](https://docs.google.com/presentation/d/19uYiomGfPR1zpx7ExR7zFBstQ3NhkBgUYC1aSoh9hAA/edit?usp=sharing) or view [top tips](https://t.co/LASWa4Esl1).
 
-On the speaker panel, I had the pleasure of chatting with Kim Tighe and Patricia Hegarty. Kim Tighe works as a Solution Lead at Hewlett Packard Enterprise and Patricia Hegarty works a QA Engineer at Fidelity Investments. Both Kim and Patricia are motivated professional women and the combination of their experience and influence filled the room with enthusiasm.
+On the speaker panel, I had the pleasure of chatting with Kim Tighe and Patricia Hegarty. Kim Tighe works as a Solution Lead at Hewlett Packard Enterprise and Patricia Hegarty works as a QA Engineer at Fidelity Investments. Both Kim and Patricia are motivated professional women and the combination of their experience and influence filled the room with enthusiasm.
 
-I acted as moderator and prepared a list of questions for Kim and Patricia. We covered topic such as role models, career advice, work and life balance, essential skills, and 2016 resolutions.
+I acted as moderator and prepared a list of questions for Kim and Patricia. We covered topics such as role models, career advice, work and life balance, essential skills, and 2016 resolutions.
 
 After the speaker panel, the questions flowed. The meetup drew to a close with attendees using the final moments to network.
 
