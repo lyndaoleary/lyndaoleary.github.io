@@ -50,7 +50,7 @@ My notes from Container Camp London 2015.
 * Solution:CRDTS
 * applied to IP allocation
 * applied to DNS
-* [Github](github.com/weaveworks)
+* [Github](https://github.com/weaveworks)
 * help@weave.works
 
 # Mandy Waite, [Google](https://cloud.google.com/)
@@ -115,7 +115,7 @@ My notes from Container Camp London 2015.
 * docker diff
 * future-the Warden-checking tool
 
-## Diogo Mónica, [Docker](http://www.docker.com/)
+# Diogo Mónica, [Docker](http://www.docker.com/)
 
 # A Docker image walks into a Notary
 * Security and Docker
