@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "December GitHub Challenge"
-excerpt: "GitHub challenge."
+excerpt: "GitHub challenge"
 tags: [link post]
 link: 
 share: true
