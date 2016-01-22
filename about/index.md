@@ -9,4 +9,6 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-I am a technical writer based in Galway, Ireland. I enjoy running, listening to music, and learning new technologies.
+I am a technical writer based in Galway, Ireland. I enjoy running, listening to music, and learning new technologies. 
+
+
