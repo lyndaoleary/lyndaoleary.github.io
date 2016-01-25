@@ -1,16 +1,43 @@
 ---
-layout: post
-title: "Women in Technology Galway meetup @ Workbench Galway"
-excerpt: "Women in Technology Galway meetup @ Workbench Galway"
-tags: [techwomengalway, womenintech, galway]
-comments: true
+layout: page
+title: Women in Technology Galway meetup
+modified: 2016-01-19
+excerpt: "Women in technology galway."
+image:
+  feature: sample-image-3.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
+
+---
+
+
+
+
+## Join the Women in Technology Galway group
+
+![Cover Image]({{ site.url }}/images/cover.jpg)
+{: .image-pull-right}
+
+Technology plays an influential part in our lives. Technology is always changing and growing and there are many opportunities in this industry. We really need to raise awareness of women in tech and to make women more visible in the IT industry.  The Women in Technology Galway meetup group provides a platform for communication and discussion for students and female professionals in Galway.  
+
+If you are interested in hearing about the perks of working in IT, learning about the latest technologies and networking with other female professionals, then come along to the [Women in Technology Galway meetup](http://www.meetup.com/Women-In-Technology-Galway/). 
+
+Follow us @techwomengalway
+
+
+
+---
+
+## Women in Technology meetup @ Workbench Galway
+
+
 <figure class="half">
-	<img src="/images/speakerpanel.jpg">
-	<img src="/images/speakerpanel3.jpg">
+  <img src="/images/speakerpanel.jpg">
+  <img src="/images/speakerpanel3.jpg">
 </figure>
 
-
+<p> </p>
 
 *Thank you* to everyone who joined us on the night and a special thanks to *Annie* and *Tracy* from Workbench Galway for setting up the space and refreshments. *BOI Workbench Galway* was the perfect space to hold our meetup and I really appreciate the support from them. The facility is an excellent space for budding entrepreneurs, new businesses, and community events.
 
@@ -46,3 +73,5 @@ I would love to hear your ideas.
 * Join [Women in Technology Galway meetup](http://www.meetup.com/Women-In-Technology-Galway/)
 * Check out the Home, Discussions, and Photos pages
 * Complete the feedback [survey](http://tiny.cc/hef57x)
+
+
