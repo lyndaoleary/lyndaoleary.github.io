@@ -11,7 +11,7 @@ image:
 ---
  I have extensive experience in the IT industry. I really enjoy my role as a technical writer and I hope you will find my posts useful. This page is (WIP) work in progress.
 
-### Topics I will cover include:
+### *Coming soon*:
 
 * Agile- my experience working as a technical writer in an Agile environemt
 * Tools- using flare, top tips and tricks
