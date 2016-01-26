@@ -5,7 +5,7 @@ excerpt: "OMiG Digital Summit Galway"
 tags: [marketing, OMiG, galway]
 comments: true
 ---
-![Nuig Image]({{ site.url }}/images/nuig.JPG)
+![Image]({{ site.url }}/images/nuig.JPG)
 {: .image-pull-right}
 
 #Coming soon-speaker notes
