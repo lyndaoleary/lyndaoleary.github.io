@@ -5,11 +5,10 @@ excerpt: "OMiG Digital Summit Galway"
 tags: [marketing, OMiG, galway]
 comments: true
 ---
+![Nuig Image]({{ site.url }}/images/nuig.JPG)
+{: .image-pull-right}
 
-![nuig Image](/images/nuig.jpg)
-{: .image-pull-left}
-
-#Coming soon- speaker notes and resources
+#Coming soon-speaker notes
 
 ##Data Analytics for Marketers
 * Aislinn Connolly, Google
