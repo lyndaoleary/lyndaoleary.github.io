@@ -6,7 +6,7 @@ tags: [marketing, OMiG, galway]
 comments: true
 ---
 
-![Cover Image]({{ site.url }}/images/nuig.jpg)
+![Cover Image](/images/nuig.jpg)
 {: .image-pull-left}
 
 #Coming soon- speaker notes and resources
