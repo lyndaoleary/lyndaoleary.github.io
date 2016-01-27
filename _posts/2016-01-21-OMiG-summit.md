@@ -8,7 +8,7 @@ comments: true
 
 Last Thursday, the OMiG Digital Summit came to Galway. The summit was held in the Radisson Hotel. OMiG (Online Marketing in Galway) is a group who are passionate about digital marketing. For more information about OMiG, see [OMiG](http://www.galwaymarketing.ie/summit/). 
 
-![nuig Image]({{ site.url }}/images/nuig.jpg)
+![Image]({{ site.url }}/images/nuig.jpg)
 {: .image-pull-right}
 
 Below are some of my speaker notes.
