@@ -10,12 +10,22 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-# CCLDN 2015
-My notes from Container Camp London 2015.
+On 11th September, *Container Camp London* was held in the Barbican conference centre in London. Advertised as the community conference of software virtualization, Container Camp London featured talks on all aspects of software virtualization, aimed at audience with an interest in all things containers.
 
-# Bryan Cantrill, [Joyent](https://www.joyent.com/)
+At registration, I met *Angie* and *Liz* from the Container Camp crew. They directed me to the Garden room, where eager attendees scouted the main sponsor stands and filled up on coffee and pastries. After coffee, small talk, and container talk, we headed down the stairs to Cinema 1 to listen to the driving forces behind this growing technology.
 
-# Towards a Containerized Future 
+During lunch, we had the opportunity to attend lightening talks. I didn’t attend these talks and chose to mingle and chat to the other attendees instead. I was particularly interested in chatting to the ladies. There was a wide variety of people, such as UX engineers, developers, technical writers, project managers, and PHD students. It was encouraging to speak to enthusiastic and motivated attendees.
+
+By evening time, I had a goodie bag filled with t-shirts, stickers, promotional leaflets. After the event, we were invited to attend the “After Party” to unwind with the guest speakers.
+
+Overall, my experience at Container Camp was positive. The presentations suited novices and experienced users and everyone came away with something. 
+
+##Notes 
+Check out my notes from Container Camp London 2015: 
+
+## Bryan Cantrill, [Joyent](https://www.joyent.com/)
+
+### Towards a Containerized Future 
 * chroot
 * George Stevenson- Power of interface
 * Docker Remote API-expressive, modern, robust
@@ -27,9 +37,9 @@ My notes from Container Camp London 2015.
 * Triton takes a modular approach
 * Manta storage service-highly scalable, distributed object storage service
 
-# Shannon Williams, [Rancher](http://rancher.com/)
+## Shannon Williams, [Rancher](http://rancher.com/)
 
-# Introducing the Private Container Service
+### Introducing the Private Container Service
 * Use cases
 - more releases
 - microservices
@@ -41,9 +51,9 @@ My notes from Container Camp London 2015.
 * Container service-constistent platform, public or private, users and teams get consistent infrastructure across multiple hosts and mulitple clouds-integrate with Devops
 * Container Service includes: container orchestration, container infrastucture, container management (resources)
 
-# Bryan Boreham, [Weaveworks](http://weave.works/)
+## Bryan Boreham, [Weaveworks](http://weave.works/)
 
-# Distributed systems with (almost) no consensus 
+### Distributed systems with (almost) no consensus 
 * any system with more than one container is a distributed system
 * products for distributed state-Etcd, Consul, Zookeeper
 * use consensus algorithms Raft/Paxos
@@ -53,9 +63,9 @@ My notes from Container Camp London 2015.
 * [Github](https://github.com/weaveworks)
 * help@weave.works
 
-# Mandy Waite, [Google](https://cloud.google.com/)
+## Mandy Waite, [Google](https://cloud.google.com/)
 
-# Kubernetes: Changing the way that we think and talk about computing
+### Kubernetes: Changing the way that we think and talk about computing
 * [Twitter](https://cloud.google.com/)
 * [Bazel](http://bazel.io/)
 * failures-preempt, machine shutdown, machine failure
@@ -67,16 +77,16 @@ My notes from Container Camp London 2015.
 * [Google Container Engine](https://cloud.google.com/container-engine/) 
 * GA
 
-# Stéphane Graber, [LXD](https://linuxcontainers.org/lxd/)
+## Stéphane Graber, [LXD](https://linuxcontainers.org/lxd/)
 
-# An introduction to LXD, the container lighter-visor
+### An introduction to LXD, the container lighter-visor
 * core of LXD is a daemon which offers a REST API to drive full system containers
 * simple, fast, secure, scalable
 * aimed running OS/system in container not app containers
 
-# Arjan Schaff, [Luminis Technology](http://luminis-technologies.com/)
+## Arjan Schaff, [Luminis Technology](http://luminis-technologies.com/)
 
-# Docker network performance in the public cloud.
+### Docker network performance in the public cloud.
 * Cloud RTI
 * Native networking test setup
 * Qperf
@@ -88,9 +98,9 @@ My notes from Container Camp London 2015.
 * Docker libnetwork
 * best was Flannel VXLAN
 
-# Alissa Bonas, [Red Hat](http://www.redhat.com/en)
+## Alissa Bonas, [Red Hat](http://www.redhat.com/en)
 
-# Managing Kubernetes and OpenShift with ManageIQ 
+### Managing Kubernetes and OpenShift with ManageIQ 
 * Kubernetes
 * OpenShift-PaaS for building and running applications
 * [ManageIQ](http://manageiq.org/)
@@ -98,9 +108,9 @@ My notes from Container Camp London 2015.
 * replicators
 * future-new dashboard, smart state analysis
 
-# Miek Gieben, [Improbable](http://improbable.io/)
+## Miek Gieben, [Improbable](http://improbable.io/)
 
-# Leveraging the DNS for fun and profit
+### Leveraging the DNS for fun and profit
 * reactive infrastructure
 * [Prometheus](http://prometheus.io/)-monitoring
 * ELK
@@ -108,32 +118,35 @@ My notes from Container Camp London 2015.
 * loadbalancing
 * [Flagz](https://github.com/mwitkow-io/go-flagz)-monitoring
 
-# Ben Hall, [Ocelot Uproar](https://twitter.com/ocelotuproar)
+## Ben Hall, [Ocelot Uproar](https://twitter.com/ocelotuproar)
 
-# Lessons from running potentially malicious code inside containers
+### Lessons from running potentially malicious code inside containers
 * [Scrapbook](http://www.joinscrapbook.com/)
 * docker diff
 * future-the Warden-checking tool
 
-# Diogo Mónica, [Docker](http://www.docker.com/)
+## Diogo Mónica, [Docker](http://www.docker.com/)
 
-# A Docker image walks into a Notary
+### A Docker image walks into a Notary
 * Security and Docker
 * [TUF](http://theupdateframework.com/)
 * [Docker Content Trust](https://blog.docker.com/2015/08/content-trust-docker-1-8/)
 * [Notary](https://github.com/docker/notary)-validating publishing of content
 
-# Loris Degioanni, [Sysdig](http://www.sysdig.org/)
+## Loris Degioanni, [Sysdig](http://www.sysdig.org/)
 
-# The Dark Art of Container Monitoring 
+### The Dark Art of Container Monitoring 
 * Monitoring and troubleshooting-inspecting containers is not easy
 * Htop
 * Sysdig cloud
 
-# Juan Batiz-Benet, [Protocol Labs](http://ipn.io/)
+## Juan Batiz-Benet, [Protocol Labs](http://ipn.io/)
 
-# Containers at Hyperspeed
+### Containers at Hyperspeed
 * [IPFS](http://ipfs.io/)
-+ Starship-containers and IPFS
+* Starship-containers and IPFS
+
+
+[Back to top](#)
 
 

@@ -19,9 +19,9 @@ image:
 ![Cover Image]({{ site.url }}/images/cover.jpg)
 {: .image-pull-right}
 
-Technology plays an influential part in our lives. Technology is always changing and growing and there are many opportunities in this industry. We really need to raise awareness of women in tech and to make women more visible in the IT industry.  The Women in Technology Galway meetup group provides a platform for communication and discussion for students and female professionals in Galway.  
+Technology plays an influential part in our lives. Technology is always changing and growing. We need to raise awareness of women in tech and make women more visible in the IT industry. The *Women in Technology Galway* meetup group provides a platform for communication and discussion for students and female professionals in Galway.  
 
-If you are interested in hearing about the perks of working in IT, learning about the latest technologies and networking with other female professionals, then come along to the [Women in Technology Galway meetup](http://www.meetup.com/Women-In-Technology-Galway/). 
+If you are interested in hearing about the perks of working in IT, learning about the latest technologies or networking with other female professionals, then come along to the [Women in Technology Galway meetup](http://www.meetup.com/Women-In-Technology-Galway/). 
 
 Follow us @techwomengalway
 
@@ -75,3 +75,4 @@ I would love to hear your ideas.
 * Complete the feedback [survey](http://tiny.cc/hef57x)
 
 
+[Back to top](#)
