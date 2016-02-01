@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "OMiG Digital Summit"
-excerpt: "OMiG Digital Summit Galway"
+excerpt: "Some notes from OMiG Digital Summit Galway."
 tags: [marketing, OMiG, galway]
 comments: true
 ---

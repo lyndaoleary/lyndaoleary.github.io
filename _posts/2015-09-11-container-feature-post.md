@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Container Camp London"
-excerpt: "Container Camp London"
+excerpt: "My notes from Container Camp London."
 tags: [container post, london]
 comments: true
 image:
