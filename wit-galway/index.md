@@ -5,8 +5,6 @@ modified: 2016-01-19
 excerpt: "Women in technology galway."
 image:
   feature: sample-image-3.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Women in Technology Galway meetup @ Workbench Galway"
-excerpt: "Women in Technology Galway meetup @ Workbench Galway"
+excerpt: "Women in Technology Galway meetup @ Workbench Galway."
 tags: [techwomengalway, womenintech, galway]
 comments: true
 ---
