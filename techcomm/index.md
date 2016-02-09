@@ -12,7 +12,7 @@ image:
 
 ### *Coming soon*:
 
-* Agile- my experience working as a technical writer in an Agile environemt
+* Agile- my experience working as a technical writer in an Agile environment
 * Tools- using flare, top tips and tricks
 * GitHub- tips and tricks for technical writers
 

@@ -6,8 +6,6 @@ tags: [container post, london]
 comments: true
 image:
   feature: sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 On 11th September, *Container Camp London* was held in the Barbican conference centre in London. Advertised as the community conference of software virtualization, Container Camp London featured talks on all aspects of software virtualization, aimed at audience with an interest in all things containers.
