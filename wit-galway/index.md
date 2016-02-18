@@ -9,8 +9,39 @@ image:
 
 ---
 
+## Women in Technology meetup (February 18th)
 
 
+*Thank you* to everyone who joined us tonight.  A special thanks to our speaker *Edel* *Browne*. Edel is an excellent role model in the STEM field. The community is lucky to have this young inspirational lady. 
+
+To find out more about the innovative device designed by Edel, see [Free Feet Medical](https://www.facebook.com/Free-Feet-Medical-127124804146394/) or follow Edel on Twitter [@EdelBrownie](https://twitter.com/EdelBrownie?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
+
+
+<img src="/images/Edel.jpg" style="display: block; margin: 0 auto;">
+
+
+Thank you to our hosts *Annie*, *Mairead* and *Tracy* from Workbench Galway for setting up the space and refreshments. 
+
+Due to connection issues we were unable to present our slides but I think I covered everything. To view the meetup slides, see [February Slides](https://docs.google.com/presentation/d/19uYiomGfPR1zpx7ExR7zFBstQ3NhkBgUYC1aSoh9hAA/edit?usp=sharing).
+
+If you are interested in getting involved with GitHub or writing a post about the meetup, please email me: <lyndaoleary29@gmail.com>.
+
+
+### Missed the meetup?
+
+If you missed the meetup, don’t worry we will host another meetup in March. Watch for updates on [Women in Technology Galway meetup](http://www.meetup.com/Women-In-Technology-Galway/).
+
+
+### Get involved
+
+I would love to hear your ideas.
+
+* Follow us on twitter @techwomengalway
+* Join [Women in Technology Galway meetup](http://www.meetup.com/Women-In-Technology-Galway/)
+* Check out the Home, Discussions, and Photos pages
+
+
+---
 
 ## Join the Women in Technology Galway meetup
 
@@ -26,7 +57,7 @@ If you are interested in hearing about the perks of working in IT, learning abou
 
 ---
 
-## Women in Technology meetup @ Workbench Galway
+## Women in Technology meetup (January 14th)
 
 
 <figure class="half">
@@ -56,7 +87,7 @@ All in all, it was a fantastic meetup. We left the building motivated and energi
 
 ### Missed the meetup?
 
-If you missed last week’s meetup, don’t worry we will host another meetup in February. Watch for updates on [Women in Technology Galway meetup](http://www.meetup.com/Women-In-Technology-Galway/).
+If you missed the meetup, don’t worry we will host another meetup in February. Watch for updates on [Women in Technology Galway meetup](http://www.meetup.com/Women-In-Technology-Galway/).
 
 ### Next meetup
 
