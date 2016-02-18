@@ -24,7 +24,7 @@ Thank you to our hosts *Annie*, *Mairead* and *Tracy* from Workbench Galway for 
 
 Due to connection issues we were unable to present our slides but I think I covered everything. To view the meetup slides, see [February Slides](https://docs.google.com/presentation/d/19uYiomGfPR1zpx7ExR7zFBstQ3NhkBgUYC1aSoh9hAA/edit?usp=sharing).
 
-If you are interested in getting involved with GitHub or writing a post about the meetup, please email me: <lyndaoleary29@gmail.com>.
+If you are interested in getting involved with GitHub or writing a post about the meetup, please email me: <lyndaoleary29@gmail.com>
 
 
 ### Missed the meetup?
@@ -38,7 +38,6 @@ I would love to hear your ideas.
 
 * Follow us on twitter @techwomengalway
 * Join [Women in Technology Galway meetup](http://www.meetup.com/Women-In-Technology-Galway/)
-* Check out the Home, Discussions, and Photos pages
 
 
 ---
