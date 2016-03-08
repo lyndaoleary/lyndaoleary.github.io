@@ -9,6 +9,16 @@ image:
 
 ---
 
+## International Women's Day (March 8th)
+
+<img src="/images/InternationalWomensDay.jpg" style="display: block; margin: 0 auto;">
+
+Happy International Women's Day!
+
+To find out what is happening in your local area, check out: [IWD](http://www.internationalwomensday.com/Activity/6714/International-Women-s-Day-Galway-Celebrations)
+
+---
+
 ## Women in Technology meetup (February 18th)
 
 
