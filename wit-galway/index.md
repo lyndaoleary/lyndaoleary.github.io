@@ -9,20 +9,33 @@ image:
 
 ---
 
+## Women in Technology meetup (April 6th)
+
+Our next meetup is at [Superpixel labs](http://superpixellabs.com/).
+We are delighted to have the following speakers:
+
+* Ashley Fielding and Andrew Hind from [Shopify](https://www.shopify.com/)
+* Dr Sandra Riordan [WITS](http://witsireland.com/cms/)
+* Tara Dalrymple [Superpixel labs](http://superpixellabs.com/)
+
+
+RSVP here: [Women in Technology Galway meetup](http://www.meetup.com/Women-In-Technology-Galway/)
+
+
+---
+
 ## International Women's Day (March 8th)
 
 <img src="/images/InternationalWomensDay.jpg" style="display: block; margin: 0 auto;">
 
-Happy International Women's Day!
-
-To find out what is happening in your local area, check out: [IWD](http://www.internationalwomensday.com/Activity/6714/International-Women-s-Day-Galway-Celebrations)
+Happy International Women's Day! To find out what is happening in your local area, check out: [IWD](http://www.internationalwomensday.com/Activity/6714/International-Women-s-Day-Galway-Celebrations)
 
 ---
 
 ## Women in Technology meetup (February 18th)
 
 
-*Thank you* to everyone who joined us tonight.  A special thanks to our speaker *Edel* *Browne*. Edel is an excellent role model in the STEM field. The community is lucky to have this young inspirational lady. 
+*Thank you* to everyone who joined us tonight.  A special thanks to our speaker *Edel* *Browne*. Edel is an excellent role model in the STEM field. The community is lucky to have this young inspirational lady.
 
 To find out more about the innovative device designed by Edel, see [Free Feet Medical](https://www.facebook.com/Free-Feet-Medical-127124804146394/) or follow Edel on Twitter [@EdelBrownie](https://twitter.com/EdelBrownie?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
 
@@ -30,7 +43,7 @@ To find out more about the innovative device designed by Edel, see [Free Feet Me
 <img src="/images/Edel.jpg" style="display: block; margin: 0 auto;">
 
 
-Thank you to our hosts *Annie*, *Mairead* and *Tracy* from Workbench Galway for setting up the space and refreshments. 
+Thank you to our hosts *Annie*, *Mairead* and *Tracy* from Workbench Galway for setting up the space and refreshments.
 
 Due to connection issues we were unable to present our slides but I think I covered everything. To view the meetup slides, see [February Slides](https://docs.google.com/presentation/d/19uYiomGfPR1zpx7ExR7zFBstQ3NhkBgUYC1aSoh9hAA/edit?usp=sharing).
 
@@ -56,7 +69,7 @@ I would love to hear your ideas.
 
 
 
-Technology plays an influential part in our lives. Technology is always changing and growing. We need to raise awareness of women in tech and make women more visible in the IT industry. The *Women in Technology Galway* meetup group provides a platform for communication and discussion for students and female professionals in Galway. 
+Technology plays an influential part in our lives. Technology is always changing and growing. We need to raise awareness of women in tech and make women more visible in the IT industry. The *Women in Technology Galway* meetup group provides a platform for communication and discussion for students and female professionals in Galway.
 
 <img src="/images/cover.jpg" style="display: block; margin: 0 auto;">
 
@@ -82,7 +95,7 @@ Last Thursday, the first *Women in Technology Galway* meetup was held in BOI Wor
 
 To kick start the event, I gave an overview of the meetup group. For those who missed the meetup, you can view the [meetup slides](https://docs.google.com/presentation/d/19uYiomGfPR1zpx7ExR7zFBstQ3NhkBgUYC1aSoh9hAA/edit?usp=sharing) or view our [top tips](https://t.co/LASWa4Esl1).
 
-On the speaker panel, I had the pleasure of chatting with *Kim Tighe* and *Patricia Hegarty*. Kim Tighe works as a Solution Lead at Hewlett Packard Enterprise and Patricia Hegarty works as a QA Engineer at Fidelity Investments. Both Kim and Patricia are motivated professional women and have experience and expertise in the IT sector. 
+On the speaker panel, I had the pleasure of chatting with *Kim Tighe* and *Patricia Hegarty*. Kim Tighe works as a Solution Lead at Hewlett Packard Enterprise and Patricia Hegarty works as a QA Engineer at Fidelity Investments. Both Kim and Patricia are motivated professional women and have experience and expertise in the IT sector.
 
 I acted as moderator and prepared a list of questions for Kim and Patricia. We covered topics such as role models, career advice, work and life balance, essential skills, and 2016 resolutions.
 

@@ -16,14 +16,14 @@ During lunch, we had the opportunity to attend lightening talks. I didn’t atte
 
 By evening time, I had a goodie bag filled with t-shirts, stickers, promotional leaflets. After the event, we were invited to attend the “After Party” to unwind with the guest speakers.
 
-Overall, my experience at Container Camp was positive. The presentations suited novices and experienced users and everyone came away with something. 
+Overall, my experience at Container Camp was positive. The presentations suited novices and experienced users and everyone came away with something.
 
-##Notes 
-Check out my notes from Container Camp London 2015: 
+##Notes
+Check out my notes from Container Camp London 2015:
 
 ## Bryan Cantrill, [Joyent](https://www.joyent.com/)
 
-### Towards a Containerized Future 
+### Towards a Containerized Future
 * chroot
 * George Stevenson- Power of interface
 * Docker Remote API-expressive, modern, robust
@@ -51,7 +51,7 @@ Check out my notes from Container Camp London 2015:
 
 ## Bryan Boreham, [Weaveworks](http://weave.works/)
 
-### Distributed systems with (almost) no consensus 
+### Distributed systems with (almost) no consensus
 * any system with more than one container is a distributed system
 * products for distributed state-Etcd, Consul, Zookeeper
 * use consensus algorithms Raft/Paxos
@@ -72,7 +72,7 @@ Check out my notes from Container Camp London 2015:
 * resource stranding
 * bin packing
 * [Kubernetes](http://kubernetes.io/)
-* [Google Container Engine](https://cloud.google.com/container-engine/) 
+* [Google Container Engine](https://cloud.google.com/container-engine/)
 * GA
 
 ## Stéphane Graber, [LXD](https://linuxcontainers.org/lxd/)
@@ -98,7 +98,7 @@ Check out my notes from Container Camp London 2015:
 
 ## Alissa Bonas, [Red Hat](http://www.redhat.com/en)
 
-### Managing Kubernetes and OpenShift with ManageIQ 
+### Managing Kubernetes and OpenShift with ManageIQ
 * Kubernetes
 * OpenShift-PaaS for building and running applications
 * [ManageIQ](http://manageiq.org/)
@@ -133,7 +133,7 @@ Check out my notes from Container Camp London 2015:
 
 ## Loris Degioanni, [Sysdig](http://www.sysdig.org/)
 
-### The Dark Art of Container Monitoring 
+### The Dark Art of Container Monitoring
 * Monitoring and troubleshooting-inspecting containers is not easy
 * Htop
 * Sysdig cloud
@@ -146,5 +146,3 @@ Check out my notes from Container Camp London 2015:
 
 
 [Back to top](#)
-
-
