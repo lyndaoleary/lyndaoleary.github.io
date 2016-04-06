@@ -7,4 +7,3 @@ comments: true
 ---
 
 RSVP [here](http://www.meetup.com/Women-In-Technology-Galway/).
-=======

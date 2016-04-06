@@ -11,15 +11,38 @@ image:
 
 ## Women in Technology meetup (April 6th)
 
-Our next meetup is at [Superpixel labs](http://superpixellabs.com/).
-We are delighted to have the following speakers:
+*Thank you* to everyone who attended our meetup. A special thanks to our speakers:
 
-* Ashley Fielding and Andrew Hind from [Shopify](https://www.shopify.com/)
-* Dr Sandra Riordan [WITS](http://witsireland.com/cms/)
-* Tara Dalrymple [Superpixel labs](http://superpixellabs.com/)
+ * *Ashley* *Fielding*-Shopify
+ * *Andrew* *Hind*-Shopify
+ * *Dr Sandra* *Riordan*-WITS
+ * *Tara* *Dalrymple*-Superpixel labs
+
+ A special thanks to our hosts [Superpixel labs](http://superpixellabs.com/) for setting up the space and refreshments. The space is amazing, vibrant, and energising.
+
+ <figure class="half">
+   <img src="/images/shopify.jpg">
+   <img src="/images/wits.jpg">
+ </figure>
+<p> </p>
+
+Further information:
+
+* [Shopify](https://www.shopify.com/)
+* [WITS](http://witsireland.com/cms/)
+* [Superpixel labs](http://superpixellabs.com/)
+
+### Missed the meetup?
+
+If you missed the meetup, don’t worry we will host another meetup at the end of April. Watch for updates on [Women in Technology Galway meetup](http://www.meetup.com/Women-In-Technology-Galway/).
 
 
-RSVP here: [Women in Technology Galway meetup](http://www.meetup.com/Women-In-Technology-Galway/)
+### Get involved
+
+I would love to hear your ideas.
+
+* Follow us on twitter @techwomengalway
+* Join [Women in Technology Galway meetup](http://www.meetup.com/Women-In-Technology-Galway/)
 
 
 ---
