@@ -9,7 +9,31 @@ image:
 
 ---
 
-## Women in Technology meetup (April 6th)
+## WITS Galway Launch (April 27th)
+
+On the 27th April, the WITS Galway group was launched.  The event took place at the Blackstone LaunchPad NUIG. 
+Women In Technology Science (WITS) is an independent, voluntary organization set up in 1990 to actively promote and support women in science, technology, engineering and maths (STEM).
+
+Mary Carroll was the main speaker at the event. Mary is the Vice-Chair of WITS and is a business strategist with over 25 years experience in design engineering, management consulting and business development. Mary gave an overview of WITS and followed with the Unconscious Bias workshop. The Unconscious Bias workshop covered:
+
+* What is unconscious bias?
+* Examples of unconscious bias in the workplace
+* Effects of unconscious bias
+* Addressing unconscious bias
+
+The informative workshop sparked interesting questions and a diverse conversation between the participants.
+
+
+For more information about WITSIreland, see: [WITS Ireland](www.witsireland.com)
+
+For information about Blackstone LaunchPad, see: [Blackstone LaunchPad](http://www.nuigalway.ie/blackstonelaunchpad/)
+
+A special thank you to the *Mary Carroll* WITS, *Mary Carty* Blackstone LaunchPad, and co-organiser Dr *Sandra Riordan*.
+
+
+---
+
+## Women in Technology Galway meetup (April 6th)
 
 *Thank you* to everyone who attended our meetup. A special thanks to our speakers:
 
