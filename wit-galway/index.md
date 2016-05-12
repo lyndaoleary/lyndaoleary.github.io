@@ -9,6 +9,14 @@ image:
 
 ---
 
+## AtlanTec-Women in Tech event (May 25th)
+
+On Wednesday the 25th May, AtlanTec Conference will host a Women in Technology event in the Meyrick Hotel.
+
+For more information about the event, see [AtlanTec](http://www.atlantec.ie/2016/04/14/it-meets-high-tea/)
+
+---
+
 ## WITS Galway Launch (April 27th)
 
   <img src="/images/WITS_launch.jpeg" style="display: block; margin: 0 auto;">
