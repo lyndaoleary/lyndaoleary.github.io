@@ -6,8 +6,32 @@
     <description>Recent content in Posts on Lynda O&#39;Leary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 15 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 May 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://lyndaoleary.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AtlanTec 2017</title>
+      <link>http://lyndaoleary.com/posts/2017-05-24-AtlanTec-WIT/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/posts/2017-05-24-AtlanTec-WIT/</guid>
+      <description>&lt;p&gt;I attended the Docker Concepts with Phil Estes. Workshop resources include:
+&lt;li&gt; &lt;a href=&#34;https://jpetazzo.github.io/orchestration-workshop/#49&#34;&gt;https://jpetazzo.github.io/orchestration-workshop/#49&lt;/a&gt; &lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt; &lt;a href=&#34;https://github.com/jpetazzo/orchestration-workshop#using-play-with-docker&#34;&gt;https://github.com/jpetazzo/orchestration-workshop#using-play-with-docker&lt;/a&gt; &lt;/li&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LavaCon 2017</title>
+      <link>http://lyndaoleary.com/posts/2017-05-22-LavaCon/</link>
+      <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/posts/2017-05-22-LavaCon/</guid>
+      <description>&lt;p&gt;The winner of the LavaCon tickets are Madeline Earp and Ashley Tan. For more information about LavaCon, see
+&lt;a href=&#34;https://lavacon.org/2017/dublin/&#34;&gt;LavaCon Dublin 2017&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Dublin Tech Summit 2017</title>
@@ -26,7 +50,7 @@
       <pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>http://lyndaoleary.com/posts/2016-10-15-pred/</guid>
-      <description>&lt;p&gt;Ina O&amp;rsquo;Murchu was one of the lucky ticket winners. Check out her review of Predict Conference:
+      <description>&lt;p&gt;Ina O&amp;rsquo;Murchu was one of the lucky ticket winners. Check out her Predict Conference review:
 &lt;a href=&#34;https://medium.com/@iomurchu/telling-stories-with-data-1f4ccf38fc73#.1m18m3x7x&#34;&gt;Telling Stories With Data&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
@@ -77,7 +101,7 @@ Learn about case-studies and attend hands-on workshops.&lt;/p&gt;
 
 &lt;p&gt;• Niamh Lynch, Digital Content Strategist and founder @ Niamhly.com and Clockworkblog.com&lt;/p&gt;
 
-&lt;p&gt;•  Louise Hynes, Client Relationship Executive, App Design&lt;/p&gt;
+&lt;p&gt;• Louise Hynes, Client Relationship Executive, App Design&lt;/p&gt;
 </description>
     </item>
     
@@ -270,33 +294,6 @@ I acted as moderator and prepared a list of questions for Kim and Patricia. We c
 &lt;li&gt;Complete the feedback &lt;a href=&#34;http://tiny.cc/hef57x&#34;&gt;survey&lt;/a&gt; &lt;/li&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;#&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>DevOps</title>
-      <link>http://lyndaoleary.com/posts/2016-10-15-devops/</link>
-      <pubDate>Thu, 05 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://lyndaoleary.com/posts/2016-10-15-devops/</guid>
-      <description>&lt;p&gt;DevOps
-Diving into the DevOps world.
-To get started, it is recommended to read the Phoneix Project (Gene Kim, Kevin Behr and George Spafford) and Continuous Delivery (Jez Humble &amp;amp; David Farley).
-Check out these 20 influential women:  &lt;a href=&#34;http://techbeacon.com/20-influential-women-devops&#34;&gt;http://techbeacon.com/20-influential-women-devops&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Join the Women in Technology Galway meetup</title>
-      <link>http://lyndaoleary.com/posts/2015-11-witm/</link>
-      <pubDate>Thu, 05 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://lyndaoleary.com/posts/2015-11-witm/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://lyndaoleary.com/img/cover.jpg&#34; style=&#34;display: block; margin: 0 auto;&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Technology plays an influential part in our lives. Technology is always changing and growing. We need to raise awareness of women in tech and make women more visible in the IT industry. The &lt;i&gt;Women in Technology Galway&lt;/i&gt; meetup group provides a platform for communication and discussion for students and professionals in Galway.&lt;/p&gt;
-
-&lt;p&gt;If you are interested in hearing about the perks of working in IT, learning about the latest technologies or networking with other professionals, then come along to the &lt;a href=&#34;http://www.meetup.com/Women-In-Technology-Galway/&#34;&gt;Women in Technology Galway meetup&lt;/a&gt;. Follow us on Twitter @techwomengalway.&lt;/p&gt;
 </description>
     </item>
     

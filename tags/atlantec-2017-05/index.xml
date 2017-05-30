@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atlantec 2017 05 on Lynda O&#39;Leary</title>
+    <link>http://lyndaoleary.com/tags/atlantec-2017-05/index.xml</link>
+    <description>Recent content in Atlantec 2017 05 on Lynda O&#39;Leary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <atom:link href="http://lyndaoleary.com/tags/atlantec-2017-05/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AtlanTec 2017</title>
+      <link>http://lyndaoleary.com/posts/2017-05-24-AtlanTec-WIT/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/posts/2017-05-24-AtlanTec-WIT/</guid>
+      <description>&lt;p&gt;I attended the Docker Concepts with Phil Estes. Workshop resources include:
+&lt;li&gt; &lt;a href=&#34;https://jpetazzo.github.io/orchestration-workshop/#49&#34;&gt;https://jpetazzo.github.io/orchestration-workshop/#49&lt;/a&gt; &lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt; &lt;a href=&#34;https://github.com/jpetazzo/orchestration-workshop#using-play-with-docker&#34;&gt;https://github.com/jpetazzo/orchestration-workshop#using-play-with-docker&lt;/a&gt; &lt;/li&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
