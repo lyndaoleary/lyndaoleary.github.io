@@ -2,12 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lynda O&#39;Leary</title>
-    <link>http://lyndaoleary.com/</link>
+    <link>http://lyndaoleary.com/index.xml</link>
     <description>Recent content on Lynda O&#39;Leary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 15 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Feb 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://lyndaoleary.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dublin Tech Summit 2017</title>
+      <link>http://lyndaoleary.com/posts/2017-2-15-DTS/</link>
+      <pubDate>Wed, 15 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/posts/2017-2-15-DTS/</guid>
+      <description>&lt;p&gt;The winner of the Dublin Tech Summit ticket is Nicola O&amp;rsquo;Sullivan. For more information about Dublin Tech Summit, see:
+&lt;a href=&#34;http://dublintechsummit.com/&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Predict Conference 2016</title>
@@ -207,11 +218,11 @@ To find out more about the innovative device designed by Edel, see &lt;a href=&#
 
 &lt;p&gt;If you are interested in getting involved with GitHub or writing a post about the meetup, please email: &lt;a href=&#34;mailto:lyndaoleary29@gmail.com&#34;&gt;lyndaoleary29@gmail.com&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;missed-the-meetup:d0033d0616569a52332f9a94223dadb5&#34;&gt;Missed the meetup?&lt;/h3&gt;
+&lt;h3 id=&#34;missed-the-meetup&#34;&gt;Missed the meetup?&lt;/h3&gt;
 
 &lt;p&gt;If you missed the meetup, don’t worry we will host another meetup in March. Watch for updates on &lt;a href=&#34;http://www.meetup.com/Women-In-Technology-Galway/&#34;&gt;Women in Technology Galway meetup&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h3 id=&#34;get-involved:d0033d0616569a52332f9a94223dadb5&#34;&gt;Get involved&lt;/h3&gt;
+&lt;h3 id=&#34;get-involved&#34;&gt;Get involved&lt;/h3&gt;
 
 &lt;p&gt;I would love to hear your ideas. Follow us on Twitter @techwomengalway or join the &lt;a href=&#34;http://www.meetup.com/Women-In-Technology-Galway/&#34;&gt;Women in Technology Galway meetup&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -244,15 +255,15 @@ I acted as moderator and prepared a list of questions for Kim and Patricia. We c
 
 &lt;p&gt;&lt;em&gt;Lynda&lt;/em&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;missed-the-meetup:75eeeea1b89dfdec5ab75adcd2f65724&#34;&gt;Missed the meetup?&lt;/h3&gt;
+&lt;h3 id=&#34;missed-the-meetup&#34;&gt;Missed the meetup?&lt;/h3&gt;
 
 &lt;p&gt;If you missed the meetup, don’t worry we will host another meetup in February. Watch for updates on &lt;a href=&#34;http://www.meetup.com/Women-In-Technology-Galway/&#34;&gt;Women in Technology Galway meetup&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h3 id=&#34;next-meetup:75eeeea1b89dfdec5ab75adcd2f65724&#34;&gt;Next meetup&lt;/h3&gt;
+&lt;h3 id=&#34;next-meetup&#34;&gt;Next meetup&lt;/h3&gt;
 
 &lt;p&gt;The next meetup will be in February. Let me know if you would like to help out or participate. Please email: &lt;a href=&#34;mailto:lyndaoleary29@gmail.com&#34;&gt;lyndaoleary29@gmail.com&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;get-involved:75eeeea1b89dfdec5ab75adcd2f65724&#34;&gt;Get involved&lt;/h3&gt;
+&lt;h3 id=&#34;get-involved&#34;&gt;Get involved&lt;/h3&gt;
 
 &lt;p&gt;&lt;li&gt;Follow us on Twitter @techwomengalway &lt;/li&gt;
 &lt;li&gt;Join &lt;a href=&#34;http://www.meetup.com/Women-In-Technology-Galway/&#34;&gt;Women in Technology Galway meetup&lt;/a&gt; and check out the Home, Discussions, and Photos pages &lt;/li&gt;
