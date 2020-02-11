@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>podcasts on Lynda O&#39;Leary</title>
+    <link>http://lyndaoleary.com/tags/podcasts/</link>
+    <description>Recent content in podcasts on Lynda O&#39;Leary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 24 May 2017 15:39:24 +0000</lastBuildDate>
+    
+	<atom:link href="http://lyndaoleary.com/tags/podcasts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Podcasts</title>
+      <link>http://lyndaoleary.com/podcasts/podcasts/</link>
+      <pubDate>Wed, 24 May 2017 15:39:24 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/podcasts/podcasts/</guid>
+      <description>Featured podcasts:
+THE IRISH TECH NEWS PODCAST
+Ronan Leonard is at LavaCon and he talks to one of the speakers Lynda O&amp;rsquo;Leary about the Write the docs Ireland meetup group which she set up and also Women in tech Galway which she set up to promote STEM and why women should be in tech. Lynda also talks about her LavaCon talk on GitHub and what Scrum is.
+https://podtail.com/en/podcast/the-irish-tech-news-podcast/lynda-o-leary-from-hewlett-packard-enterprise-one-/</description>
+    </item>
+    
+  </channel>
+</rss>

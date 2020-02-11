@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>media on Lynda O&#39;Leary</title>
+    <link>http://lyndaoleary.com/tags/media/</link>
+    <description>Recent content in media on Lynda O&#39;Leary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 05 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://lyndaoleary.com/tags/media/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Media</title>
+      <link>http://lyndaoleary.com/media/2019-9-media/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/media/2019-9-media/</guid>
+      <description>Showcase examples of articles add videos</description>
+    </item>
+    
+    <item>
+      <title>Media</title>
+      <link>http://lyndaoleary.com/media/2020-9-media/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/media/2020-9-media/</guid>
+      <description>Technovation Ireland Finals - Final Pitch Timekeeper</description>
+    </item>
+    
+    <item>
+      <title>PrivSec</title>
+      <link>http://lyndaoleary.com/media/2019-09-privsec/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/media/2019-09-privsec/</guid>
+      <description>PrivSec Dublin - Cyber Security and Business Continuity Theatre Moderator</description>
+    </item>
+    
+  </channel>
+</rss>

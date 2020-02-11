@@ -1,22 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Predict Conference 2016 10 on Lynda O&#39;Leary</title>
-    <link>http://lyndaoleary.com/tags/predict-conference-2016-10/index.xml</link>
-    <description>Recent content in Predict Conference 2016 10 on Lynda O&#39;Leary</description>
+    <title>Predict Conference 2016-10 on Lynda O&#39;Leary</title>
+    <link>http://lyndaoleary.com/tags/predict-conference-2016-10/</link>
+    <description>Recent content in Predict Conference 2016-10 on Lynda O&#39;Leary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <atom:link href="http://lyndaoleary.com/tags/predict-conference-2016-10/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Oct 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://lyndaoleary.com/tags/predict-conference-2016-10/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Predict Conference 2016</title>
-      <link>http://lyndaoleary.com/posts/2016-10-15-pred/</link>
+      <link>http://lyndaoleary.com/posts/2016/2016-10-15-pred/</link>
       <pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://lyndaoleary.com/posts/2016-10-15-pred/</guid>
-      <description>&lt;p&gt;Ina O&amp;rsquo;Murchu was one of the lucky ticket winners. Check out her Predict Conference review:
-&lt;a href=&#34;https://medium.com/@iomurchu/telling-stories-with-data-1f4ccf38fc73#.1m18m3x7x&#34;&gt;Telling Stories With Data&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>http://lyndaoleary.com/posts/2016/2016-10-15-pred/</guid>
+      <description>Ina O&amp;rsquo;Murchu was one of the lucky ticket winners. Check out her Predict Conference review: Telling Stories With Data</description>
     </item>
     
   </channel>

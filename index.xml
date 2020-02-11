@@ -1,25 +1,138 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lynda O&#39;Leary</title>
-    <link>http://lyndaoleary.com/index.xml</link>
+    <link>http://lyndaoleary.com/</link>
     <description>Recent content on Lynda O&#39;Leary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 24 May 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://lyndaoleary.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Feb 2020 16:43:15 +0000</lastBuildDate>
+    
+	<atom:link href="http://lyndaoleary.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>http://lyndaoleary.com/posts/2019/test/</link>
+      <pubDate>Tue, 11 Feb 2020 16:43:15 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/posts/2019/test/</guid>
+      <description>Looking back at the European Women in Technology conference at the RAI Amsterdam. https://www.europeanwomenintech.com/agenda
+About the European Women in Technology conference The European Women in Technology conference is Europe&amp;rsquo;s largest event for women in tech. The 2 day event is full of inspirational talks, technical workshops and career development sessions. The conference is created and produced by Maddox events: https://www.maddoxevents.com/
+For more information about the European Women In Technology conference, see: https://www.</description>
+    </item>
+    
+    <item>
+      <title>Higher Options</title>
+      <link>http://lyndaoleary.com/media/2018-03-00-amchm/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/media/2018-03-00-amchm/</guid>
+      <description>American Chamber of Commerce Ireland Innovation Series - STEM Careers Speaker</description>
+    </item>
+    
+    <item>
+      <title>Higher Options</title>
+      <link>http://lyndaoleary.com/media/2019-05-techn/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/media/2019-05-techn/</guid>
+      <description>Technovation Ireland Finals - Final Pitch Timekeeper</description>
+    </item>
+    
+    <item>
+      <title>Higher Options</title>
+      <link>http://lyndaoleary.com/media/2019-09-ho/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/media/2019-09-ho/</guid>
+      <description>The Irish Times Higher Options event in the RDS - STEM Careers Speaker</description>
+    </item>
+    
+    <item>
+      <title>Media</title>
+      <link>http://lyndaoleary.com/media/2019-9-media/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/media/2019-9-media/</guid>
+      <description>Showcase examples of articles add videos</description>
+    </item>
+    
+    <item>
+      <title>Media</title>
+      <link>http://lyndaoleary.com/media/2020-9-media/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/media/2020-9-media/</guid>
+      <description>Technovation Ireland Finals - Final Pitch Timekeeper</description>
+    </item>
+    
+    <item>
+      <title>PrivSec</title>
+      <link>http://lyndaoleary.com/media/2019-09-privsec/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/media/2019-09-privsec/</guid>
+      <description>PrivSec Dublin - Cyber Security and Business Continuity Theatre Moderator</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://lyndaoleary.com/projects/2020-02-projects/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/projects/2020-02-projects/</guid>
+      <description>Projects</description>
+    </item>
+    
+    <item>
+      <title>Speaking</title>
+      <link>http://lyndaoleary.com/media/2018-09-01-dj/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/media/2018-09-01-dj/</guid>
+      <description>Django programming workshop for women in Sligo - Python Instructor</description>
+    </item>
+    
+    <item>
+      <title>Speaking</title>
+      <link>http://lyndaoleary.com/media/2018-11-25-ewir/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/media/2018-11-25-ewir/</guid>
+      <description>European Women in Technology Conference Amsterdam - Tech Talks Stage Chairperson</description>
+    </item>
+    
+    <item>
+      <title>Podcasts</title>
+      <link>http://lyndaoleary.com/podcasts/podcasts/</link>
+      <pubDate>Wed, 24 May 2017 15:39:24 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/podcasts/podcasts/</guid>
+      <description>Featured podcasts:
+THE IRISH TECH NEWS PODCAST
+Ronan Leonard is at LavaCon and he talks to one of the speakers Lynda O&amp;rsquo;Leary about the Write the docs Ireland meetup group which she set up and also Women in tech Galway which she set up to promote STEM and why women should be in tech. Lynda also talks about her LavaCon talk on GitHub and what Scrum is.
+https://podtail.com/en/podcast/the-irish-tech-news-podcast/lynda-o-leary-from-hewlett-packard-enterprise-one-/</description>
+    </item>
     
     <item>
       <title>AtlanTec 2017</title>
-      <link>http://lyndaoleary.com/posts/2017-05-24-AtlanTec-WIT/</link>
+      <link>http://lyndaoleary.com/posts/2017/2017-05-24-atlantec-wit/</link>
       <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://lyndaoleary.com/posts/2017-05-24-AtlanTec-WIT/</guid>
-      <description>&lt;p&gt;I attended the Docker Concepts with Phil Estes. Workshop resources include:
-&lt;li&gt; &lt;a href=&#34;https://jpetazzo.github.io/orchestration-workshop/#49&#34;&gt;https://jpetazzo.github.io/orchestration-workshop/#49&lt;/a&gt; &lt;/li&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;li&gt; &lt;a href=&#34;https://github.com/jpetazzo/orchestration-workshop#using-play-with-docker&#34;&gt;https://github.com/jpetazzo/orchestration-workshop#using-play-with-docker&lt;/a&gt; &lt;/li&gt;&lt;/p&gt;
-</description>
+      <guid>http://lyndaoleary.com/posts/2017/2017-05-24-atlantec-wit/</guid>
+      <description>I attended the Docker Concepts with Phil Estes. Workshop resources include:</description>
+    </item>
+    
+    <item>
+      <title>My role as a systems engineer</title>
+      <link>http://lyndaoleary.com/posts/2019/2019-03-serole/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/posts/2019/2019-03-serole/</guid>
+      <description>Are you all about ensuring that there are no manual or mundane tasks done by humans?
+As a DevOps engineer, to focus just on coding/developing the application while everything else happens automatically in the background, including continuous integration, continuous deployment to staging, rules based promotion to dev, stage, alpha, beta and production environment.
+You will build, scale, automate and maintain a number of infrastructure projects including but not limited to - monitoring and alerting, automated deployments (cloud and on premise), software defined</description>
     </item>
     
     <item>
@@ -28,250 +141,241 @@
       <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
       
       <guid>http://lyndaoleary.com/speaking/2017-05-30-speaking/</guid>
-      <description>&lt;p&gt;I am passionate about Devops, Women in Technology and Technical Communication.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-I presented at the following events:
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;li&gt;2017 - LavaCon Dublin: &lt;a href=&#34;https://lavacon.org/2017/dublin/speakers/lynda-oleary/&#34;&gt;https://lavacon.org/2017/dublin/speakers/lynda-oleary/&lt;/a&gt;&lt;/li&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;li&gt;2017 - SciFest @GMIT: &lt;a href=&#34;http://scifest.ie/&#34;&gt;http://scifest.ie/&lt;/a&gt; &lt;/li&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;li&gt;2016 - Smart Futures STEM Careers Roadshow @NUIG: &lt;a href=&#34;http://www.smartfutures.ie/&#34;&gt;http://www.smartfutures.ie/&lt;/a&gt; &lt;/li&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;li&gt;&lt;i&gt;2015 - Google Developers Galway meetup&lt;/i&gt;: &lt;a href=&#34;http://www.collinsmcnicholas.ie/developers-brave-the-galway-weather-to-attend-google-developers-meeting/&#34;&gt;http://www.collinsmcnicholas.ie/developers-brave-the-galway-weather-to-attend-google-developers-meeting/&lt;/a&gt;&lt;/li&gt;&lt;/p&gt;
-</description>
+      <description>I am passionate about Devops, Women in Technology and Technical Communication.
+Appearances Picture Time and link to it
+American Chamber of Commerce Ireland Innovation Series - STEM Careers Speaker
+upcoming talks 2020:</description>
+    </item>
+    
+    <item>
+      <title>Speaking</title>
+      <link>http://lyndaoleary.com/speaking/2018-03-01-amcham/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/speaking/2018-03-01-amcham/</guid>
+      <description>American Chamber of Commerce Ireland Innovation Series - STEM Careers Speaker</description>
+    </item>
+    
+    <item>
+      <title>Speaking</title>
+      <link>http://lyndaoleary.com/speaking/2018-11-25-ewit/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/speaking/2018-11-25-ewit/</guid>
+      <description>European Women in Technology Conference Amsterdam - Tech Talks Stage Chairperson</description>
+    </item>
+    
+    <item>
+      <title>Speaking</title>
+      <link>http://lyndaoleary.com/speaking/2019-03-cfp/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/speaking/2019-03-cfp/</guid>
+      <description>Global Diversity Day CFP Mentor - Public Speaker Mentor</description>
+    </item>
+    
+    <item>
+      <title>Speaking</title>
+      <link>http://lyndaoleary.com/speaking/2019-09-higheroptions/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/speaking/2019-09-higheroptions/</guid>
+      <description>The Irish Times Higher Options event in the RDS - STEM Careers Speaker</description>
     </item>
     
     <item>
       <title>LavaCon 2017</title>
-      <link>http://lyndaoleary.com/posts/2017-05-22-LavaCon/</link>
+      <link>http://lyndaoleary.com/posts/2017/2017-05-22-lavacon/</link>
       <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://lyndaoleary.com/posts/2017-05-22-LavaCon/</guid>
-      <description>&lt;p&gt;The winner of the LavaCon tickets are Madeline Earp and Ashley Tan. For more information about LavaCon, see
-&lt;a href=&#34;https://lavacon.org/2017/dublin/&#34;&gt;LavaCon Dublin 2017&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>http://lyndaoleary.com/posts/2017/2017-05-22-lavacon/</guid>
+      <description>The winner of the LavaCon tickets are Madeline Earp and Ashley Tan. For more information about LavaCon, see LavaCon Dublin 2017.</description>
     </item>
     
     <item>
       <title>Dublin Tech Summit 2017</title>
-      <link>http://lyndaoleary.com/posts/2017-2-15-DTS/</link>
+      <link>http://lyndaoleary.com/posts/2017/2017-2-15-dts/</link>
       <pubDate>Wed, 15 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://lyndaoleary.com/posts/2017-2-15-DTS/</guid>
-      <description>&lt;p&gt;The winner of the Dublin Tech Summit ticket is Nicola O&amp;rsquo;Sullivan. For more information about Dublin Tech Summit, see
-&lt;a href=&#34;http://dublintechsummit.com/&#34;&gt;Dublin Tech Summit&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>http://lyndaoleary.com/posts/2017/2017-2-15-dts/</guid>
+      <description>The winner of the Dublin Tech Summit ticket is Nicola O&amp;rsquo;Sullivan. For more information about Dublin Tech Summit, see Dublin Tech Summit.</description>
     </item>
     
     <item>
       <title>Predict Conference 2016</title>
-      <link>http://lyndaoleary.com/posts/2016-10-15-pred/</link>
+      <link>http://lyndaoleary.com/posts/2016/2016-10-15-pred/</link>
       <pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://lyndaoleary.com/posts/2016-10-15-pred/</guid>
-      <description>&lt;p&gt;Ina O&amp;rsquo;Murchu was one of the lucky ticket winners. Check out her Predict Conference review:
-&lt;a href=&#34;https://medium.com/@iomurchu/telling-stories-with-data-1f4ccf38fc73#.1m18m3x7x&#34;&gt;Telling Stories With Data&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>http://lyndaoleary.com/posts/2016/2016-10-15-pred/</guid>
+      <description>Ina O&amp;rsquo;Murchu was one of the lucky ticket winners. Check out her Predict Conference review: Telling Stories With Data</description>
     </item>
     
     <item>
       <title>Winners of the Predict Conference Tickets</title>
-      <link>http://lyndaoleary.com/posts/2016-10-04-predc/</link>
+      <link>http://lyndaoleary.com/posts/2016/2016-10-04-predc/</link>
       <pubDate>Tue, 04 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://lyndaoleary.com/posts/2016-10-04-predc/</guid>
-      <description>&lt;p&gt;Congratulations to our Predict Conference winners:&lt;/p&gt;
-
-&lt;p&gt;&lt;li&gt; Ina O&amp;rsquo;Murchu &lt;/li&gt;
-&lt;li&gt; Claire Gallagher &lt;/li&gt;
-&lt;li&gt; Andrea Yanez &lt;/li&gt;&lt;/p&gt;
-</description>
+      <guid>http://lyndaoleary.com/posts/2016/2016-10-04-predc/</guid>
+      <description>Congratulations to our Predict Conference winners:</description>
     </item>
     
     <item>
       <title>Predict Conference 2016</title>
-      <link>http://lyndaoleary.com/posts/2016-10-03-predc/</link>
+      <link>http://lyndaoleary.com/posts/2016/2016-10-03-predc/</link>
       <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://lyndaoleary.com/posts/2016-10-03-predc/</guid>
-      <description>&lt;p&gt;The Predict Conference will feature leading international thinkers in the areas of Data, Predictive Models, Technology and Decision making.&lt;/p&gt;
-
-&lt;p&gt;Discuss the latest progress in Predictive Modelling and its future - from Data to Software and Hardware technology, plus Predictive Modelling methods and the best examples of Data-driven Decision-making.
-Enjoy talks from leading entrepreneurs, data scientists, technologists, investors, and decision-makers (from business and government)
-Learn about case-studies and attend hands-on workshops.&lt;/p&gt;
-
-&lt;p&gt;The event is an excellent opportunity to network with other companies and professionals, and to discuss Data and Predictive Modelling technologies. For more information about Predict Conference, see: &lt;a href=&#34;http://predictconfernce.com&#34;&gt;http://predictconfernce.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;A special thank you to Predict Conference who kindly sponsored the tickets and also allocated a 25 % discount on tickets. To avail of the 25% discount, please contact Lynda for the code.&lt;/p&gt;
-</description>
+      <guid>http://lyndaoleary.com/posts/2016/2016-10-03-predc/</guid>
+      <description>The Predict Conference will feature leading international thinkers in the areas of Data, Predictive Models, Technology and Decision making.
+Discuss the latest progress in Predictive Modelling and its future - from Data to Software and Hardware technology, plus Predictive Modelling methods and the best examples of Data-driven Decision-making. Enjoy talks from leading entrepreneurs, data scientists, technologists, investors, and decision-makers (from business and government) Learn about case-studies and attend hands-on workshops.</description>
     </item>
     
     <item>
       <title>Women in Technology Galway meetup-September 2016</title>
-      <link>http://lyndaoleary.com/posts/2016-09-07-tech/</link>
+      <link>http://lyndaoleary.com/posts/2016/2016-09-07-tech/</link>
       <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://lyndaoleary.com/posts/2016-09-07-tech/</guid>
-      <description>&lt;p&gt;Join us for our September meetup as we join with Network Galway to host Technology and You.&lt;/p&gt;
-
-&lt;p&gt;Our Technology and You event brings together members of Network Galway and Women in Technology Galway to discuss the world of business and technology, and to bring attention the value of women participating in the technology sector. We have guest speakers from local tech companies. Our Technology and You speaker panel includes:&lt;/p&gt;
-
-&lt;p&gt;• Sarah King, Software Developer @ HPE&lt;/p&gt;
-
-&lt;p&gt;• Niamh Lynch, Digital Content Strategist and founder @ Niamhly.com and Clockworkblog.com&lt;/p&gt;
-
-&lt;p&gt;• Louise Hynes, Client Relationship Executive, App Design&lt;/p&gt;
-</description>
+      <guid>http://lyndaoleary.com/posts/2016/2016-09-07-tech/</guid>
+      <description>Join us for our September meetup as we join with Network Galway to host Technology and You.
+Our Technology and You event brings together members of Network Galway and Women in Technology Galway to discuss the world of business and technology, and to bring attention the value of women participating in the technology sector. We have guest speakers from local tech companies. Our Technology and You speaker panel includes:
+• Sarah King, Software Developer @ HPE</description>
     </item>
     
     <item>
       <title>Python Coding Grace workshop-August 2016</title>
-      <link>http://lyndaoleary.com/posts/2016-08-23-coding/</link>
+      <link>http://lyndaoleary.com/posts/2016/2016-08-23-coding/</link>
       <pubDate>Tue, 23 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://lyndaoleary.com/posts/2016-08-23-coding/</guid>
-      <description>&lt;p&gt;Join WITS Ireland at their Python Coding Workshop scheduled for the 23rd August.&lt;/p&gt;
-
-&lt;p&gt;This workshop is aimed at beginners level. No experience required. The workshop will be lead by Vicky Twomey-Lee from Coding Grace and WITS Ireland. There will be self paced beginners content and resources available to all attendees.&lt;/p&gt;
-
-&lt;p&gt;Please register at WITS Ireland to secure your place. For more information, please contact Sandra Riordan.&lt;/p&gt;
-</description>
+      <guid>http://lyndaoleary.com/posts/2016/2016-08-23-coding/</guid>
+      <description>Join WITS Ireland at their Python Coding Workshop scheduled for the 23rd August.
+This workshop is aimed at beginners level. No experience required. The workshop will be lead by Vicky Twomey-Lee from Coding Grace and WITS Ireland. There will be self paced beginners content and resources available to all attendees.
+Please register at WITS Ireland to secure your place. For more information, please contact Sandra Riordan.</description>
     </item>
     
     <item>
       <title>Winner of the Inspirefest Ticket</title>
-      <link>http://lyndaoleary.com/posts/2016-07-02-inspf/</link>
+      <link>http://lyndaoleary.com/posts/2016/2016-07-02-inspf/</link>
       <pubDate>Sat, 02 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://lyndaoleary.com/posts/2016-07-02-inspf/</guid>
-      <description>&lt;p&gt;Congratulations to &lt;b&gt; Deardriu Lally &lt;/b&gt; on winnning the 2 complimentary tickets for Inspirefest at Bord Gáis Energy Theatre, Grand Canal Square, Dublin 2.
-Inspirefest is a two day conference and takes place on the 30th June and 1st July. Inspirefest is a truly unique international festival of technology, science, design and the arts, which also happens to place diversity and inclusion at its heart.&lt;/p&gt;
-
-&lt;p&gt;The event is an excellent opportunity to network with other companies and professionals, discuss the future of science and technology and to listen to key STEM speakers.&lt;/p&gt;
-
-&lt;p&gt;For more information about Inspirefest, see:&lt;/p&gt;
-
-&lt;p&gt;&lt;li&gt; Web: &lt;a href=&#34;http://inspirefest.com/­&#34;&gt;http://inspirefest.com/­&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt; Twitter: &lt;a href=&#34;https://twitter.com/InspirefestHQ­&#34;&gt;https://twitter.com/InspirefestHQ­&lt;/a&gt; &lt;/li&gt;
-&lt;li&gt; Facebook: &lt;a href=&#34;https://www.facebook.com/inspirefesthq­&#34;&gt;https://www.facebook.com/inspirefesthq­&lt;/a&gt; &lt;/li&gt;
-&lt;li&gt; LinkedIn: &lt;a href=&#34;https://www.linkedin.com/company/inspirefesthq­&#34;&gt;https://www.linkedin.com/company/inspirefesthq­&lt;/a&gt; &lt;/li&gt;&lt;/p&gt;
-</description>
+      <guid>http://lyndaoleary.com/posts/2016/2016-07-02-inspf/</guid>
+      <description>Congratulations to Deardriu Lally on winnning the 2 complimentary tickets for Inspirefest at Bord Gáis Energy Theatre, Grand Canal Square, Dublin 2. Inspirefest is a two day conference and takes place on the 30th June and 1st July. Inspirefest is a truly unique international festival of technology, science, design and the arts, which also happens to place diversity and inclusion at its heart.
+The event is an excellent opportunity to network with other companies and professionals, discuss the future of science and technology and to listen to key STEM speakers.</description>
     </item>
     
     <item>
       <title>Winner of the AtlanTec-IT Meets High Tea Ticket</title>
-      <link>http://lyndaoleary.com/posts/2016-05-atwit/</link>
+      <link>http://lyndaoleary.com/posts/2016/2016-05-atwit/</link>
       <pubDate>Wed, 25 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://lyndaoleary.com/posts/2016-05-atwit/</guid>
-      <description>&lt;p&gt;Congratulations to &lt;b&gt;Mary Kate Heaslip&lt;/b&gt; and &lt;b&gt;Louise Gilligan&lt;/b&gt; on winning the complimentary tickets for the AtlanTec Women in Technology event &amp;ldquo;IT Meets High Tea&amp;rdquo; at the Meyrick Hotel.
-The AtlanTec Festival aims to showcase Galway’s diverse technology culture. The Women in Technology event will highlight the success of leading female talent in the tech industry in the West of Ireland. The event is an excellent opportunity to network with other companies and professionals, discuss interesting topics, and inspire future women in the field.&lt;/p&gt;
-
-&lt;p&gt;The speaker panel includes:&lt;/p&gt;
-
-&lt;p&gt;&lt;li&gt;Dr Alison Vincent, Cisco&lt;/li&gt;
-  &lt;li&gt;James Stanbridge, Declara&lt;/li&gt;
-  &lt;li&gt;Ramona Pierson, Declara&lt;/li&gt;
-  &lt;li&gt;Brenda Romero, Romero Games&lt;/li&gt;&lt;/p&gt;
-
-&lt;p&gt;For more information about the event, see:
- &lt;a href=&#34;http://www.atlantec.ie/2016/04/14/it-meets-high-tea/&#34;&gt;AtlanTec&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>http://lyndaoleary.com/posts/2016/2016-05-atwit/</guid>
+      <description>Congratulations to Mary Kate Heaslipand Louise Gilliganon winning the complimentary tickets for the AtlanTec Women in Technology event &amp;ldquo;IT Meets High Tea&amp;rdquo; at the Meyrick Hotel. The AtlanTec Festival aims to showcase Galway’s diverse technology culture. The Women in Technology event will highlight the success of leading female talent in the tech industry in the West of Ireland. The event is an excellent opportunity to network with other companies and professionals, discuss interesting topics, and inspire future women in the field.</description>
     </item>
     
     <item>
       <title>Unconscious Bias talk and WITS Galway Launch-April 2016</title>
-      <link>http://lyndaoleary.com/posts/2016-04-witsl/</link>
+      <link>http://lyndaoleary.com/posts/2016/2016-04-witsl/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://lyndaoleary.com/posts/2016-04-witsl/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://lyndaoleary.com/img/WITS_launch_3.jpg&#34; style=&#34;display: block; margin: 0 auto;&#34;&gt;
-On the 27th April, the WITS Galway group was launched.  The event took place at the Blackstone LaunchPad NUIG.
-Women In Technology Science (WITS) is an independent, voluntary organization set up in 1990 to actively promote and support women in science, technology, engineering and maths (STEM).&lt;/p&gt;
-
-&lt;p&gt;Mary Carroll was the main speaker at the event. Mary is the Vice-Chair of WITS and is a business strategist with over 25 years experience in design engineering, management consulting and business development. Mary gave an overview of WITS and followed with the Unconscious Bias workshop. The Unconscious Bias workshop covered:&lt;/p&gt;
-
-&lt;p&gt;&lt;li&gt;What is unconscious bias?&lt;/li&gt;
-&lt;li&gt;Examples of unconscious bias in the workplace&lt;/li&gt;
-&lt;li&gt;Effects of unconscious bias&lt;/li&gt;
-&lt;li&gt;Addressing unconscious bias&lt;/li&gt;&lt;/p&gt;
-
-&lt;p&gt;The informative workshop sparked interesting questions and a diverse conversation between the participants. For more information about WITS Ireland, see: &lt;a href=&#34;www.witsireland.com&#34;&gt;WITS Ireland&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;For information about Blackstone LaunchPad, see: &lt;a href=&#34;http://www.nuigalway.ie/blackstonelaunchpad/&#34;&gt;Blackstone LaunchPad&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;A special thank you to co-organiser &lt;i&gt;Dr Sandra Riordan&lt;/i&gt;, &lt;i&gt;Mary Carty&lt;/i&gt; Blackstone LaunchPad, and &lt;i&gt;Mary Carroll&lt;/i&gt;.&lt;/p&gt;
-</description>
+      <guid>http://lyndaoleary.com/posts/2016/2016-04-witsl/</guid>
+      <description>On the 27th April, the WITS Galway group was launched. The event took place at the Blackstone LaunchPad NUIG. Women In Technology Science (WITS) is an independent, voluntary organization set up in 1990 to actively promote and support women in science, technology, engineering and maths (STEM).
+Mary Carroll was the main speaker at the event. Mary is the Vice-Chair of WITS and is a business strategist with over 25 years experience in design engineering, management consulting and business development.</description>
     </item>
     
     <item>
       <title>Women In Technology Galway meetup-April 2016</title>
-      <link>http://lyndaoleary.com/posts/2016-04-wits/</link>
+      <link>http://lyndaoleary.com/posts/2016/2016-04-wits/</link>
       <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://lyndaoleary.com/posts/2016-04-wits/</guid>
-      <description>&lt;p&gt;&lt;i&gt;Thank you&lt;/i&gt; to everyone who attended our meetup and to our guest speakers:&lt;/p&gt;
-
-&lt;p&gt;&lt;li&gt;&lt;b&gt;Ashley Fielding&lt;/b&gt;, &lt;a href=&#34;https://www.shopify.com/&#34;&gt;Shopify&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;b&gt;Andrew Hind&lt;/b&gt;, &lt;a href=&#34;https://www.shopify.com/&#34;&gt;Shopify&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;b&gt;Dr Sandra Riordan&lt;/b&gt;, &lt;a href=&#34;http://witsireland.com/cms/&#34;&gt;WITS&lt;/a&gt; &lt;/li&gt;
- &lt;li&gt;&lt;b&gt;Tara Dalrymple&lt;/b&gt;, &lt;a href=&#34;http://superpixellabs.com/&#34;&gt;Superpixel labs&lt;/a&gt;.&lt;/li&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;figure class=&#34;half&#34;&gt;
-   &lt;img src=&#34;http://lyndaoleary.com/img/shopify.jpg&#34;alt=&#34;HTML5 Icon&#34; width=&#34;400&#34; height=&#34;300&#34;&gt;
-   &lt;img src=&#34;http://lyndaoleary.com/img/wits.jpg&#34; alt=&#34;HTML5 Icon&#34; width=&#34;400&#34; height=&#34;300&#34;&gt;
- &lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-A special thanks to our hosts &lt;a href=&#34;http://superpixellabs.com/&#34;&gt;Superpixel labs&lt;/a&gt; for setting up the space and refreshments. The space is amazing, vibrant, and energising.&lt;/p&gt;
-
-&lt;h3&gt;Missed the meetup?&lt;/h3&gt;
-
-&lt;p&gt;If you missed the meetup, don’t worry we will host another meetup at the end of April. Watch for updates on &lt;a href=&#34;http://www.meetup.com/Women-In-Technology-Galway/&#34;&gt;Women in Technology Galway meetup&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3&gt;Get involved&lt;/h3&gt;
-
-&lt;p&gt;I would love to hear your ideas.
-Follow us on twitter @techwomengalway or join the &lt;a href=&#34;http://www.meetup.com/Women-In-Technology-Galway/&#34;&gt;Women in Technology Galway meetup&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>http://lyndaoleary.com/posts/2016/2016-04-wits/</guid>
+      <description>Thank youto everyone who attended our meetup and to our guest speakers:
+A special thanks to our hosts Superpixel labs for setting up the space and refreshments. The space is amazing, vibrant, and energising.
+If you missed the meetup, don’t worry we will host another meetup at the end of April. Watch for updates on Women in Technology Galway meetup.
+I would love to hear your ideas. Follow us on twitter @techwomengalway or join the Women in Technology Galway meetup.</description>
     </item>
     
     <item>
       <title>International Women&#39;s Day-March 2016</title>
-      <link>http://lyndaoleary.com/posts/2016-03-iwd/</link>
+      <link>http://lyndaoleary.com/posts/2016/2016-03-iwd/</link>
       <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://lyndaoleary.com/posts/2016-03-iwd/</guid>
-      <description>&lt;p&gt;Happy International Women&amp;rsquo;s Day! To find out what is happening in your local area, check out: &lt;a href=&#34;http://www.internationalwomensday.com/Activity/6714/International-Women-s-Day-Galway-Celebrations&#34;&gt;IWD&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>http://lyndaoleary.com/posts/2016/2016-03-iwd/</guid>
+      <description>Happy International Women&amp;rsquo;s Day! To find out what is happening in your local area, check out: IWD</description>
     </item>
     
     <item>
       <title>Women in Technology Galway meetup-February 2016</title>
-      <link>http://lyndaoleary.com/posts/2016-02-feb/</link>
+      <link>http://lyndaoleary.com/posts/2016/2016-02-feb/</link>
       <pubDate>Thu, 18 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://lyndaoleary.com/posts/2016-02-feb/</guid>
-      <description>
-
-&lt;p&gt;&lt;i&gt;Thank you&lt;/i&gt; to everyone who joined us tonight.  A special thanks to our speaker &lt;i&gt;Edel Browne&lt;/i&gt;. Edel is an excellent STEM role model. The community is lucky to have this young inspirational lady.
-To find out more about the innovative device designed by Edel, see &lt;a href=&#34;https://www.facebook.com/Free-Feet-Medical-127124804146394/&#34;&gt;Free Feet Medical&lt;/a&gt; or follow Edel on Twitter &lt;a href=&#34;https://twitter.com/EdelBrownie?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor&#34;&gt;@EdelBrownie&lt;/a&gt;.
-&lt;img src=&#34;http://lyndaoleary.com/img/edel.jpg&#34; style=&#34;display: block; margin: 0 auto;width=&#34;400&#34; height=&#34;300&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Thank you to our hosts &lt;i&gt;Annie&lt;/i&gt;, &lt;i&gt;Mairead&lt;/i&gt; and &lt;i&gt;Tracy&lt;/i&gt; from Workbench Galway for setting up the space and refreshments. Due to connection issues we were unable to present our slides but I think I covered everything. To view the meetup slides, see &lt;a href=&#34;https://docs.google.com/presentation/d/19uYiomGfPR1zpx7ExR7zFBstQ3NhkBgUYC1aSoh9hAA/edit?usp=sharing&#34;&gt;February Slides&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;If you are interested in getting involved with GitHub or writing a post about the meetup, please email: &lt;a href=&#34;mailto:lyndaoleary29@gmail.com&#34;&gt;lyndaoleary29@gmail.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;missed-the-meetup&#34;&gt;Missed the meetup?&lt;/h3&gt;
-
-&lt;p&gt;If you missed the meetup, don’t worry we will host another meetup in March. Watch for updates on &lt;a href=&#34;http://www.meetup.com/Women-In-Technology-Galway/&#34;&gt;Women in Technology Galway meetup&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;get-involved&#34;&gt;Get involved&lt;/h3&gt;
-
-&lt;p&gt;I would love to hear your ideas. Follow us on Twitter @techwomengalway or join the &lt;a href=&#34;http://www.meetup.com/Women-In-Technology-Galway/&#34;&gt;Women in Technology Galway meetup&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>http://lyndaoleary.com/posts/2016/2016-02-feb/</guid>
+      <description>Thank youto everyone who joined us tonight. A special thanks to our speaker Edel Browne. Edel is an excellent STEM role model. The community is lucky to have this young inspirational lady. To find out more about the innovative device designed by Edel, see Free Feet Medical or follow Edel on Twitter @EdelBrownie. &amp;lt;img src=&amp;rdquo;/img/edel.jpg&amp;rdquo; style=&amp;quot;display: block; margin: 0 auto;width=&amp;quot;400&amp;rdquo; height=&amp;quot;300&amp;quot;&amp;gt;
+Thank you to our hosts Annie, Maireadand Tracyfrom Workbench Galway for setting up the space and refreshments.</description>
+    </item>
+    
+    <item>
+      <title>Women in Technology Galway meetup-January 2016</title>
+      <link>http://lyndaoleary.com/posts/2016/2016-01-wit/</link>
+      <pubDate>Thu, 14 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/posts/2016/2016-01-wit/</guid>
+      <description>Thank youto everyone who joined us on the night and a special thanks to Annieand Tracyfrom Workbench Galway for setting up the space and refreshments. BOI Workbench Galwaywas the perfect space to hold our meetup and I really appreciate the support from them. The facility is an excellent space for budding entrepreneurs, new businesses, and community events.
+Last Thursday, the first Women in Technology Galway meetup was held in BOI Workbench Galway.</description>
+    </item>
+    
+    <item>
+      <title>Speaking</title>
+      <link>http://lyndaoleary.com/speaking/2015-12-03-gdg/</link>
+      <pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/speaking/2015-12-03-gdg/</guid>
+      <description>Are you all about ensuring that there are no manual or mundane tasks done by humans?
+As a DevOps engineer, to focus just on coding/developing the application while everything else happens automatically in the background, including continuous integration, continuous deployment to staging, rules based promotion to dev, stage, alpha, beta and production environment.
+You will build, scale, automate and maintain a number of infrastructure projects including but not limited to - monitoring and alerting, automated deployments (cloud and on premise), software defined</description>
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>http://lyndaoleary.com/posts/2016/2016-10-15-devops/</link>
+      <pubDate>Thu, 05 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/posts/2016/2016-10-15-devops/</guid>
+      <description>DevOps Diving into the DevOps world. To get started, it is recommended to read the Phoneix Project (Gene Kim, Kevin Behr and George Spafford) and Continuous Delivery (Jez Humble &amp;amp; David Farley). Check out these 20 influential women: http://techbeacon.com/20-influential-women-devops</description>
+    </item>
+    
+    <item>
+      <title>Join the Women in Technology Galway meetup</title>
+      <link>http://lyndaoleary.com/posts/2015/2015-11-witm/</link>
+      <pubDate>Thu, 05 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/posts/2015/2015-11-witm/</guid>
+      <description>Technology plays an influential part in our lives. Technology is always changing and growing. We need to raise awareness of women in tech and make women more visible in the IT industry. The Women in Technology Galwaymeetup group provides a platform for communication and discussion for students and professionals in Galway.
+If you are interested in hearing about the perks of working in IT, learning about the latest technologies or networking with other professionals, then come along to the Women in Technology Galway meetup.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://lyndaoleary.com/posts/2018/2018-08-di/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/posts/2018/2018-08-di/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://lyndaoleary.com/posts/2020/2020-01yir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/posts/2020/2020-01yir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://lyndaoleary.com/speaking/2019-09-privsec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/speaking/2019-09-privsec/</guid>
+      <description></description>
     </item>
     
   </channel>

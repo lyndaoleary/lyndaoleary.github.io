@@ -1,29 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Predict Conference 2016 on Lynda O&#39;Leary</title>
-    <link>http://lyndaoleary.com/tags/predict-conference-2016/index.xml</link>
+    <link>http://lyndaoleary.com/tags/predict-conference-2016/</link>
     <description>Recent content in Predict Conference 2016 on Lynda O&#39;Leary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <atom:link href="http://lyndaoleary.com/tags/predict-conference-2016/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Oct 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://lyndaoleary.com/tags/predict-conference-2016/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Predict Conference 2016</title>
-      <link>http://lyndaoleary.com/posts/2016-10-03-predc/</link>
+      <link>http://lyndaoleary.com/posts/2016/2016-10-03-predc/</link>
       <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://lyndaoleary.com/posts/2016-10-03-predc/</guid>
-      <description>&lt;p&gt;The Predict Conference will feature leading international thinkers in the areas of Data, Predictive Models, Technology and Decision making.&lt;/p&gt;
-
-&lt;p&gt;Discuss the latest progress in Predictive Modelling and its future - from Data to Software and Hardware technology, plus Predictive Modelling methods and the best examples of Data-driven Decision-making.
-Enjoy talks from leading entrepreneurs, data scientists, technologists, investors, and decision-makers (from business and government)
-Learn about case-studies and attend hands-on workshops.&lt;/p&gt;
-
-&lt;p&gt;The event is an excellent opportunity to network with other companies and professionals, and to discuss Data and Predictive Modelling technologies. For more information about Predict Conference, see: &lt;a href=&#34;http://predictconfernce.com&#34;&gt;http://predictconfernce.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;A special thank you to Predict Conference who kindly sponsored the tickets and also allocated a 25 % discount on tickets. To avail of the 25% discount, please contact Lynda for the code.&lt;/p&gt;
-</description>
+      <guid>http://lyndaoleary.com/posts/2016/2016-10-03-predc/</guid>
+      <description>The Predict Conference will feature leading international thinkers in the areas of Data, Predictive Models, Technology and Decision making.
+Discuss the latest progress in Predictive Modelling and its future - from Data to Software and Hardware technology, plus Predictive Modelling methods and the best examples of Data-driven Decision-making. Enjoy talks from leading entrepreneurs, data scientists, technologists, investors, and decision-makers (from business and government) Learn about case-studies and attend hands-on workshops.</description>
     </item>
     
   </channel>

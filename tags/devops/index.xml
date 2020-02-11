@@ -1,24 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Devops on Lynda O&#39;Leary</title>
-    <link>http://lyndaoleary.com/tags/devops/index.xml</link>
-    <description>Recent content in Devops on Lynda O&#39;Leary</description>
+    <title>DevOps on Lynda O&#39;Leary</title>
+    <link>http://lyndaoleary.com/tags/devops/</link>
+    <description>Recent content in DevOps on Lynda O&#39;Leary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <atom:link href="http://lyndaoleary.com/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Nov 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://lyndaoleary.com/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>DevOps</title>
-      <link>http://lyndaoleary.com/posts/2016-10-15-devops/</link>
+      <link>http://lyndaoleary.com/posts/2016/2016-10-15-devops/</link>
       <pubDate>Thu, 05 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://lyndaoleary.com/posts/2016-10-15-devops/</guid>
-      <description>&lt;p&gt;DevOps
-Diving into the DevOps world.
-To get started, it is recommended to read the Phoneix Project (Gene Kim, Kevin Behr and George Spafford) and Continuous Delivery (Jez Humble &amp;amp; David Farley).
-Check out these 20 influential women:  &lt;a href=&#34;http://techbeacon.com/20-influential-women-devops&#34;&gt;http://techbeacon.com/20-influential-women-devops&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>http://lyndaoleary.com/posts/2016/2016-10-15-devops/</guid>
+      <description>DevOps Diving into the DevOps world. To get started, it is recommended to read the Phoneix Project (Gene Kim, Kevin Behr and George Spafford) and Continuous Delivery (Jez Humble &amp;amp; David Farley). Check out these 20 influential women: http://techbeacon.com/20-influential-women-devops</description>
     </item>
     
   </channel>

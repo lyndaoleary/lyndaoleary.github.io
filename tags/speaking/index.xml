@@ -1,12 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Speaking on Lynda O&#39;Leary</title>
-    <link>http://lyndaoleary.com/tags/speaking/index.xml</link>
+    <link>http://lyndaoleary.com/tags/speaking/</link>
     <description>Recent content in Speaking on Lynda O&#39;Leary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <atom:link href="http://lyndaoleary.com/tags/speaking/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://lyndaoleary.com/tags/speaking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Speaking</title>
+      <link>http://lyndaoleary.com/media/2018-09-01-dj/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/media/2018-09-01-dj/</guid>
+      <description>Django programming workshop for women in Sligo - Python Instructor</description>
+    </item>
+    
+    <item>
+      <title>Speaking</title>
+      <link>http://lyndaoleary.com/media/2018-11-25-ewir/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/media/2018-11-25-ewir/</guid>
+      <description>European Women in Technology Conference Amsterdam - Tech Talks Stage Chairperson</description>
+    </item>
     
     <item>
       <title>Speaking</title>
@@ -14,20 +35,46 @@
       <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
       
       <guid>http://lyndaoleary.com/speaking/2017-05-30-speaking/</guid>
-      <description>&lt;p&gt;I am passionate about Devops, Women in Technology and Technical Communication.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-I presented at the following events:
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;li&gt;2017 - LavaCon Dublin: &lt;a href=&#34;https://lavacon.org/2017/dublin/speakers/lynda-oleary/&#34;&gt;https://lavacon.org/2017/dublin/speakers/lynda-oleary/&lt;/a&gt;&lt;/li&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;li&gt;2017 - SciFest @GMIT: &lt;a href=&#34;http://scifest.ie/&#34;&gt;http://scifest.ie/&lt;/a&gt; &lt;/li&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;li&gt;2016 - Smart Futures STEM Careers Roadshow @NUIG: &lt;a href=&#34;http://www.smartfutures.ie/&#34;&gt;http://www.smartfutures.ie/&lt;/a&gt; &lt;/li&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;li&gt;&lt;i&gt;2015 - Google Developers Galway meetup&lt;/i&gt;: &lt;a href=&#34;http://www.collinsmcnicholas.ie/developers-brave-the-galway-weather-to-attend-google-developers-meeting/&#34;&gt;http://www.collinsmcnicholas.ie/developers-brave-the-galway-weather-to-attend-google-developers-meeting/&lt;/a&gt;&lt;/li&gt;&lt;/p&gt;
-</description>
+      <description>I am passionate about Devops, Women in Technology and Technical Communication.
+Appearances Picture Time and link to it
+American Chamber of Commerce Ireland Innovation Series - STEM Careers Speaker
+upcoming talks 2020:</description>
+    </item>
+    
+    <item>
+      <title>Speaking</title>
+      <link>http://lyndaoleary.com/speaking/2018-03-01-amcham/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/speaking/2018-03-01-amcham/</guid>
+      <description>American Chamber of Commerce Ireland Innovation Series - STEM Careers Speaker</description>
+    </item>
+    
+    <item>
+      <title>Speaking</title>
+      <link>http://lyndaoleary.com/speaking/2018-11-25-ewit/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/speaking/2018-11-25-ewit/</guid>
+      <description>European Women in Technology Conference Amsterdam - Tech Talks Stage Chairperson</description>
+    </item>
+    
+    <item>
+      <title>Speaking</title>
+      <link>http://lyndaoleary.com/speaking/2019-03-cfp/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/speaking/2019-03-cfp/</guid>
+      <description>Global Diversity Day CFP Mentor - Public Speaker Mentor</description>
+    </item>
+    
+    <item>
+      <title>Speaking</title>
+      <link>http://lyndaoleary.com/speaking/2019-09-higheroptions/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/speaking/2019-09-higheroptions/</guid>
+      <description>The Irish Times Higher Options event in the RDS - STEM Careers Speaker</description>
     </item>
     
   </channel>

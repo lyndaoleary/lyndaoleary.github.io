@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Python Coding Grace Workshop August 2016 on Lynda O&#39;Leary</title>
-    <link>http://lyndaoleary.com/tags/python-coding-grace-workshop-august-2016/index.xml</link>
-    <description>Recent content in Python Coding Grace Workshop August 2016 on Lynda O&#39;Leary</description>
+    <title>Python Coding Grace workshop-August 2016 on Lynda O&#39;Leary</title>
+    <link>http://lyndaoleary.com/tags/python-coding-grace-workshop-august-2016/</link>
+    <description>Recent content in Python Coding Grace workshop-August 2016 on Lynda O&#39;Leary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <atom:link href="http://lyndaoleary.com/tags/python-coding-grace-workshop-august-2016/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Aug 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://lyndaoleary.com/tags/python-coding-grace-workshop-august-2016/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Python Coding Grace workshop-August 2016</title>
-      <link>http://lyndaoleary.com/posts/2016-08-23-coding/</link>
+      <link>http://lyndaoleary.com/posts/2016/2016-08-23-coding/</link>
       <pubDate>Tue, 23 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://lyndaoleary.com/posts/2016-08-23-coding/</guid>
-      <description>&lt;p&gt;Join WITS Ireland at their Python Coding Workshop scheduled for the 23rd August.&lt;/p&gt;
-
-&lt;p&gt;This workshop is aimed at beginners level. No experience required. The workshop will be lead by Vicky Twomey-Lee from Coding Grace and WITS Ireland. There will be self paced beginners content and resources available to all attendees.&lt;/p&gt;
-
-&lt;p&gt;Please register at WITS Ireland to secure your place. For more information, please contact Sandra Riordan.&lt;/p&gt;
-</description>
+      <guid>http://lyndaoleary.com/posts/2016/2016-08-23-coding/</guid>
+      <description>Join WITS Ireland at their Python Coding Workshop scheduled for the 23rd August.
+This workshop is aimed at beginners level. No experience required. The workshop will be lead by Vicky Twomey-Lee from Coding Grace and WITS Ireland. There will be self paced beginners content and resources available to all attendees.
+Please register at WITS Ireland to secure your place. For more information, please contact Sandra Riordan.</description>
     </item>
     
   </channel>

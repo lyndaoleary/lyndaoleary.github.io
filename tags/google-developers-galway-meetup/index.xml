@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google Developers Galway Meetup on Lynda O&#39;Leary</title>
+    <link>http://lyndaoleary.com/tags/google-developers-galway-meetup/</link>
+    <description>Recent content in Google Developers Galway Meetup on Lynda O&#39;Leary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 03 Dec 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://lyndaoleary.com/tags/google-developers-galway-meetup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Speaking</title>
+      <link>http://lyndaoleary.com/speaking/2015-12-03-gdg/</link>
+      <pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/speaking/2015-12-03-gdg/</guid>
+      <description>Are you all about ensuring that there are no manual or mundane tasks done by humans?
+As a DevOps engineer, to focus just on coding/developing the application while everything else happens automatically in the background, including continuous integration, continuous deployment to staging, rules based promotion to dev, stage, alpha, beta and production environment.
+You will build, scale, automate and maintain a number of infrastructure projects including but not limited to - monitoring and alerting, automated deployments (cloud and on premise), software defined</description>
+    </item>
+    
+  </channel>
+</rss>

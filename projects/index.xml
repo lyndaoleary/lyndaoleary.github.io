@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Lynda O&#39;Leary</title>
+    <link>http://lyndaoleary.com/projects/</link>
+    <description>Recent content in Projects on Lynda O&#39;Leary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 05 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://lyndaoleary.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projects</title>
+      <link>http://lyndaoleary.com/projects/2020-02-projects/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyndaoleary.com/projects/2020-02-projects/</guid>
+      <description>Projects</description>
+    </item>
+    
+  </channel>
+</rss>
