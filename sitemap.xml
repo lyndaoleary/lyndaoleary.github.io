@@ -3,117 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://lyndaoleary.com/</loc>
-    <lastmod>2020-02-11T16:43:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lyndaoleary.com/posts/</loc>
-    <lastmod>2020-02-11T16:43:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lyndaoleary.com/posts/2019/test/</loc>
-    <lastmod>2020-02-11T16:43:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lyndaoleary.com/media/2018-03-00-amchm/</loc>
-    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lyndaoleary.com/media/2019-05-techn/</loc>
-    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lyndaoleary.com/media/2019-09-ho/</loc>
-    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lyndaoleary.com/media/</loc>
-    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lyndaoleary.com/media/2019-9-media/</loc>
-    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lyndaoleary.com/media/2020-9-media/</loc>
-    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lyndaoleary.com/tags/media/</loc>
-    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lyndaoleary.com/media/2019-09-privsec/</loc>
-    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lyndaoleary.com/projects/</loc>
-    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lyndaoleary.com/projects/2020-02-projects/</loc>
-    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lyndaoleary.com/tags/projects/</loc>
-    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lyndaoleary.com/tags/speaking/</loc>
-    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lyndaoleary.com/media/2018-09-01-dj/</loc>
-    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lyndaoleary.com/media/2018-11-25-ewir/</loc>
-    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lyndaoleary.com/tags/stem/</loc>
-    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lyndaoleary.com/tags/</loc>
-    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lyndaoleary.com/podcasts/</loc>
-    <lastmod>2017-05-24T15:39:24+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lyndaoleary.com/podcasts/podcasts/</loc>
-    <lastmod>2017-05-24T15:39:24+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lyndaoleary.com/tags/podcasts/</loc>
-    <lastmod>2017-05-24T15:39:24+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lyndaoleary.com/posts/2017/2017-05-24-atlantec-wit/</loc>
+    <loc>http://lyndaoleary.com/posts/2017-05-24-atlantec-wit/</loc>
     <lastmod>2017-05-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,7 +13,17 @@
   </url>
   
   <url>
-    <loc>http://lyndaoleary.com/posts/2019/2019-03-serole/</loc>
+    <loc>http://lyndaoleary.com/</loc>
+    <lastmod>2017-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lyndaoleary.com/posts/</loc>
+    <lastmod>2017-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lyndaoleary.com/tags/speaking/</loc>
     <lastmod>2017-05-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -133,37 +33,17 @@
   </url>
   
   <url>
-    <loc>http://lyndaoleary.com/speaking/2018-03-01-amcham/</loc>
-    <lastmod>2017-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lyndaoleary.com/speaking/2018-11-25-ewit/</loc>
-    <lastmod>2017-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lyndaoleary.com/speaking/2019-03-cfp/</loc>
-    <lastmod>2017-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lyndaoleary.com/speaking/2019-09-higheroptions/</loc>
-    <lastmod>2017-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://lyndaoleary.com/speaking/</loc>
     <lastmod>2017-05-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://lyndaoleary.com/tags/systems-engineer/</loc>
+    <loc>http://lyndaoleary.com/tags/</loc>
     <lastmod>2017-05-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://lyndaoleary.com/posts/2017/2017-05-22-lavacon/</loc>
+    <loc>http://lyndaoleary.com/posts/2017-05-22-lavacon/</loc>
     <lastmod>2017-05-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -173,7 +53,7 @@
   </url>
   
   <url>
-    <loc>http://lyndaoleary.com/posts/2017/2017-2-15-dts/</loc>
+    <loc>http://lyndaoleary.com/posts/2017-2-15-dts/</loc>
     <lastmod>2017-02-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -183,7 +63,7 @@
   </url>
   
   <url>
-    <loc>http://lyndaoleary.com/posts/2016/2016-10-15-pred/</loc>
+    <loc>http://lyndaoleary.com/posts/2016-10-15-pred/</loc>
     <lastmod>2016-10-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -198,7 +78,7 @@
   </url>
   
   <url>
-    <loc>http://lyndaoleary.com/posts/2016/2016-10-04-predc/</loc>
+    <loc>http://lyndaoleary.com/posts/2016-10-04-predc/</loc>
     <lastmod>2016-10-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -208,7 +88,7 @@
   </url>
   
   <url>
-    <loc>http://lyndaoleary.com/posts/2016/2016-10-03-predc/</loc>
+    <loc>http://lyndaoleary.com/posts/2016-10-03-predc/</loc>
     <lastmod>2016-10-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -218,7 +98,7 @@
   </url>
   
   <url>
-    <loc>http://lyndaoleary.com/posts/2016/2016-09-07-tech/</loc>
+    <loc>http://lyndaoleary.com/posts/2016-09-07-tech/</loc>
     <lastmod>2016-09-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -228,7 +108,7 @@
   </url>
   
   <url>
-    <loc>http://lyndaoleary.com/posts/2016/2016-08-23-coding/</loc>
+    <loc>http://lyndaoleary.com/posts/2016-08-23-coding/</loc>
     <lastmod>2016-08-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -238,7 +118,7 @@
   </url>
   
   <url>
-    <loc>http://lyndaoleary.com/posts/2016/2016-07-02-inspf/</loc>
+    <loc>http://lyndaoleary.com/posts/2016-07-02-inspf/</loc>
     <lastmod>2016-07-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -248,7 +128,7 @@
   </url>
   
   <url>
-    <loc>http://lyndaoleary.com/posts/2016/2016-05-atwit/</loc>
+    <loc>http://lyndaoleary.com/posts/2016-05-atwit/</loc>
     <lastmod>2016-05-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -258,7 +138,7 @@
   </url>
   
   <url>
-    <loc>http://lyndaoleary.com/posts/2016/2016-04-witsl/</loc>
+    <loc>http://lyndaoleary.com/posts/2016-04-witsl/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -268,7 +148,7 @@
   </url>
   
   <url>
-    <loc>http://lyndaoleary.com/posts/2016/2016-04-wits/</loc>
+    <loc>http://lyndaoleary.com/posts/2016-04-wits/</loc>
     <lastmod>2016-04-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -278,7 +158,7 @@
   </url>
   
   <url>
-    <loc>http://lyndaoleary.com/posts/2016/2016-03-iwd/</loc>
+    <loc>http://lyndaoleary.com/posts/2016-03-iwd/</loc>
     <lastmod>2016-03-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -288,7 +168,7 @@
   </url>
   
   <url>
-    <loc>http://lyndaoleary.com/posts/2016/2016-02-feb/</loc>
+    <loc>http://lyndaoleary.com/posts/2016-02-feb/</loc>
     <lastmod>2016-02-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -298,18 +178,8 @@
   </url>
   
   <url>
-    <loc>http://lyndaoleary.com/posts/2016/2016-01-wit/</loc>
+    <loc>http://lyndaoleary.com/posts/2016-01-wit/</loc>
     <lastmod>2016-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lyndaoleary.com/tags/google-developers-galway-meetup/</loc>
-    <lastmod>2015-12-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lyndaoleary.com/speaking/2015-12-03-gdg/</loc>
-    <lastmod>2015-12-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -318,7 +188,7 @@
   </url>
   
   <url>
-    <loc>http://lyndaoleary.com/posts/2016/2016-10-15-devops/</loc>
+    <loc>http://lyndaoleary.com/posts/2016-10-15-devops/</loc>
     <lastmod>2015-11-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -328,23 +198,8 @@
   </url>
   
   <url>
-    <loc>http://lyndaoleary.com/posts/2015/2015-11-witm/</loc>
+    <loc>http://lyndaoleary.com/posts/2015-11-witm/</loc>
     <lastmod>2015-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lyndaoleary.com/posts/2018/2018-08-di/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://lyndaoleary.com/posts/2020/2020-01yir/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://lyndaoleary.com/speaking/2019-09-privsec/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

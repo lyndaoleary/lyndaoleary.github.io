@@ -6,55 +6,10 @@
     <description>Recent content in Tags on Lynda O&#39;Leary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 05 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://lyndaoleary.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>media</title>
-      <link>http://lyndaoleary.com/tags/media/</link>
-      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://lyndaoleary.com/tags/media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>projects</title>
-      <link>http://lyndaoleary.com/tags/projects/</link>
-      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://lyndaoleary.com/tags/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Speaking</title>
-      <link>http://lyndaoleary.com/tags/speaking/</link>
-      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://lyndaoleary.com/tags/speaking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>STEM</title>
-      <link>http://lyndaoleary.com/tags/stem/</link>
-      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://lyndaoleary.com/tags/stem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>podcasts</title>
-      <link>http://lyndaoleary.com/tags/podcasts/</link>
-      <pubDate>Wed, 24 May 2017 15:39:24 +0000</pubDate>
-      
-      <guid>http://lyndaoleary.com/tags/podcasts/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>AtlanTec 2017-05</title>
@@ -66,11 +21,11 @@
     </item>
     
     <item>
-      <title>Systems Engineer</title>
-      <link>http://lyndaoleary.com/tags/systems-engineer/</link>
+      <title>Speaking</title>
+      <link>http://lyndaoleary.com/tags/speaking/</link>
       <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://lyndaoleary.com/tags/systems-engineer/</guid>
+      <guid>http://lyndaoleary.com/tags/speaking/</guid>
       <description></description>
     </item>
     
@@ -197,15 +152,6 @@
       <pubDate>Thu, 14 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://lyndaoleary.com/tags/women-in-technology-galway-meetup-january-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Google Developers Galway Meetup</title>
-      <link>http://lyndaoleary.com/tags/google-developers-galway-meetup/</link>
-      <pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://lyndaoleary.com/tags/google-developers-galway-meetup/</guid>
       <description></description>
     </item>
     
